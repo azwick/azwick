@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Anne 👩‍💻
+
+I live near Hamburg, Germany & work at **ePages**.
+
+- 🦸🏼‍♀️ I’m currently working as a UI Dev
+- 📚 I’m currently learning JavaScript, TypeScript & React
+- 🎉 Learn more about me: [www.zwickermann.com](https://www.zwickermann.com/)
+- ⚡ Saying of the day: "There is no such thing as too much cheese!"
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azwick&theme=radical&layout=compact)
 
 <!--
-**azwick/azwick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Tech Stack
 
-Here are some ideas to get you started:
+#### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=azwick&theme=radical&show_icons=true)
 -->
