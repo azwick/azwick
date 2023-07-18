@@ -3,16 +3,16 @@
 I'm currently traveling around North America in a van. <br>
 🗺️ Follow me on Instagram: [zwickermanns_on_tour](https://www.instagram.com/zwickermanns_on_tour/)
 
-I'm a UX/UI Dev. <br>
+**I'm a UX/UI Dev.** <br>
 👩‍💻 Learn more about me: [LinkedIn](https://www.linkedin.com/in/anne-d-zimmermann-zwick-184bb4142/) | [Xing](https://www.xing.com/profile/AnneD_ZimmermannZwick/cv)
 
-My public learning and programming playground:
+**My public learning and programming playground:**
 - [ToDo List](https://codesandbox.io/s/1-todo-list-s34v4)
 - [GitHub User Search](https://codesandbox.io/s/2-github-user-search-n9wm9)
 - [Dark Mode Switch](https://codesandbox.io/s/3-dark-mode-switch-941ep)
 - [Drag and Drop](https://codesandbox.io/s/7-drag-and-drop-q8hx2)
 
-Side projects: 
+**Side projects:**
 - [Logo Design](https://dribbble.com/zwickermann/)
 
 ⚡ My philosophy of life "A GOAL IS A DREAM WITH A DEADLINE."
