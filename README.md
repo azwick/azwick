@@ -1,13 +1,15 @@
-### Hi there 👋, I'm Anne 👩‍💻
+### Moin 👋, I'm Anne 👩‍💻
 
-I live near Hamburg, Germany & work at **ePages**.
+I'm currently traveling around North America in a van.
+Follow me on Instagram: [zwickermanns_on_tour](https://www.instagram.com/zwickermanns_on_tour/)
 
-- 🦸🏼‍♀️ I’m currently working as a UI Dev
-- 📚 I’m currently learning JavaScript, TypeScript & React
-- 🎉 Learn more about me: [www.zwickermann.com](https://www.zwickermann.com/)
-- ⚡ Saying of the day: "There is no such thing as too much cheese!"
+I'm a UX/UI Dev.
+Learn more about me: [LinkedIn](https://www.linkedin.com/in/anne-d-zimmermann-zwick-184bb4142/) | [Xing](https://www.xing.com/profile/AnneD_ZimmermannZwick/cv)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azwick&theme=radical&layout=compact)
+My programming playground: ...coming soon
+Side projects: [logo design](https://dribbble.com/zwickermann)
+
+⚡ My philosophy of life "A GOAL IS A DREAM WITH A DEADLINE."
 
 #### Tech Stack
 
@@ -27,3 +29,8 @@ I live near Hamburg, Germany & work at **ePages**.
 https://dev.to/envoy_/150-badges-for-github-pnk
 
 -->
+
+#### Design Stack
+
+...coming soon
+
