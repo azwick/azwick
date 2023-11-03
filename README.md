@@ -1,6 +1,7 @@
 ### Moin 👋, I'm Anne 
 
-I'm currently traveling around North America in a van. <br>
+From July 2022 to early October 2023, I traveled through North and Central America in a van. <br> 
+Now I am back and open to work. <br>
 🗺️ Follow me on Instagram: [zwickermanns_on_tour](https://www.instagram.com/zwickermanns_on_tour/)
 
 **I'm a UX/UI Dev.** <br>
