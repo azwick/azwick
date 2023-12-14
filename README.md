@@ -7,6 +7,11 @@ Now I am back and open to work. <br>
 **I'm a UX/UI Dev.** <br>
 👩‍💻 Learn more about me: [LinkedIn](https://www.linkedin.com/in/anne-d-zimmermann-zwick-184bb4142/) | [Xing](https://www.xing.com/profile/AnneD_ZimmermannZwick/cv)
 
+**New projects:**
+- [Image Gallery](https://github.com/azwick/image-gallery)
+- [FM - Time Tracking Dashboard](https://github.com/azwick/FM-time-tracking-dashboard)
+- [FM - Interactive Rating Component](https://github.com/azwick/FM-Interactive-rating-component)
+  
 **My public learning and programming playground:**
 - [ToDo List](https://codesandbox.io/s/1-todo-list-s34v4)
 - [GitHub User Search](https://codesandbox.io/s/2-github-user-search-n9wm9)
